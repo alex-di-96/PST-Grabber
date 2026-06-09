@@ -1,0 +1,6 @@
+customtkinter
+pyinstaller
+mail-parser
+tnefparse
+libpff-python-windows; platform_system == "Windows"
+libpff-python; platform_system == "Linux"

@@ -1,0 +1,30 @@
+# --- Большие данные / Large data (НЕ храним в репо) ---
+Samples/
+TestRun/
+*.pst
+*.mbox
+
+# --- Скачанный движок / Downloaded engine ---
+rpst/
+readpst.exe
+*.dll
+libpst.zip
+
+# --- Артефакты сборки / Build artifacts ---
+build/
+dist/
+*.zip
+
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
